@@ -1,7 +1,7 @@
-# PalindromeChecker
+# Palindrome Checker
 Required project for freeCodeCamp's JavaScript Algorithms and Data Structures certification.
 
-# Project rubric:
+# Project Rubric:
 
 Return true if the given string is a palindrome. Otherwise, return false.
 
